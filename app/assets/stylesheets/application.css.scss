@@ -1,0 +1,9 @@
+/*
+ *= require_self
+ */
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+@import 'normalize';
+@import "global.css.scss";
+@import "welcome.css.scss";
